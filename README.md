@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://gltc7x-3000.csb.app/](https://gltc7x-3000.csb.app/)
+- 👨‍💻 All of my projects are available at [https://gltc7x-3000.csb.app/](https://7vx9sm-3000.csb.app/)
 
 - 💬 Ask me about **Javascript, React, Nextjs, Node.js, .Net, and GCP**
 
