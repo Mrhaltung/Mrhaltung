@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrhaltung" alt="mrhaltung" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud-based solutions**
+- 🔭 I’m currently working on **Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **GCP and AWS Serivces**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://gltc7x-3000.csb.app/](https://7vx9sm-3000.csb.app/)
+- 💬 Ask me about **Javascript, React, Nextjs, Node.js, .Net, Python, Data Science, and GCP**
 
-- 💬 Ask me about **Javascript, React, Nextjs, Node.js, .Net, and GCP**
-
-- 📫 How to reach me **dipeshchandekar99@gmail.com**
+- 📫 How to reach me **dipeshchandekar2409@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Brq1AzNUn6keLUA-twMm_sTHyX12z7L_/view](https://drive.google.com/file/d/1Brq1AzNUn6keLUA-twMm_sTHyX12z7L_/view)
 
